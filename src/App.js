@@ -30,6 +30,7 @@ class  App extends Component {
 
     return (
       <div className="App">
+        <h1> Cat Rolodex </h1>
         <SearchBox placeHolder={'search monsters'} action={this.onSearchChange}/>
         <CardList options={filteredOptions}></CardList>
       </div>
