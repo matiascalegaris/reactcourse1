@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mcalegaris.github.io/reactcourse1",
+  "homepage": "https://matiascalegaris.github.io/reactcourse1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
